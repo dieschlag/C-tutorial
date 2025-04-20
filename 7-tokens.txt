@@ -1,0 +1,20 @@
+A token is reffered as the smallest unit in the source code of a computer language.
+
+First step in the compilation process is **tokenizer**: divides source code into individual tokens, 
+identifying the token type and pass one at a time to the next compiler step.
+
+Parser understands language grammar, identifies synthax error, and translate error-free program into machine language.
+
+Tokens are:
+- Character Set
+- Keywords tokens
+- Identifier tokens
+- Operator tokens
+- Special symbol tokens
+
+Character set:
+- Uppercase: A to Z
+- Lowercase: a to Z
+- Digits: 0 to 9
+- Special characters: ! " # $ % & ' ( ) * + - . : , ; ` ~ = < > { } [ ] ^ _ \ /
+

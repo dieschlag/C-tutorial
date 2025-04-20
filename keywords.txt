@@ -1,0 +1,47 @@
+List of keywords:
+
+Primitive Types:
+
+int -- declares an integer variable
+long -- declares a long integer variable
+signed -- declares a signed variable
+double -- declares double-precision variable
+char -- declares carachter variable
+float -- declares floating-point variable
+unsigned -- desclares unsigned variable
+void -- secifies void return type
+
+User-defined Types:
+struct -- declares a struct type
+typedef -- creates a new data type
+union -- declares a union type
+enum -- declares an enumeration type
+
+Storage Types:
+
+auto -- specifies automatic storage class
+extern -- declares variable or function
+static -- specfifies static storage class
+register -- specifies register storage class
+
+Conditionals:
+
+goto -- jumps to labeles statement
+if -- starts if statement
+else -- executes when if condition is false
+case -- labels a statement within a switch
+default -- specifies default statement in switch
+
+Loops and Loop Control:
+
+for -- start for-loop
+do -- starts a do-while loop
+while -- starts while loop
+continue -- skips iteration
+break -- terminates loop statement
+
+Other:
+
+const -- specifies constant value
+Sizeof -- determines size of data type
+Volatile -- compiler that the value of the variable may change at any time

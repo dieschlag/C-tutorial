@@ -1,3 +1,5 @@
-/compilations
-/.vscode
+*
+!*.*
 *.o
+/.vscode
+/compilations
